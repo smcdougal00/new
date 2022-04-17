@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    }
+a {
+    color: rgb(2, 82, 2);
+    font-size: 24px;
+}
+p {
+    font-style: italic;
+}
+h1,h2,p {font-size:xx-large}
+p {background-color: lightgrey;}
+
+.tableaubg {
+    background-image: url('../Images/Snowmobile.jpeg');
+    background-size: 100%;
+    
+
+}
+
+.innnerTab {
+    text-align: center;
+    background: lightgray;
+    font-size: smaller;
+  
+}
+
+footer {
+    text-align: center;
+    background-color: lightgray;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+}
